@@ -1,0 +1,19 @@
+{
+  "name": "login-form",
+  "version": "1.0.0",
+  "description": "Authenticate login-form using passport js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tri Vi",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.3",
+    "mongoose": "^4.11.3",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "session": "^0.1.0"
+  }
+}
